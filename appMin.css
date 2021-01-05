@@ -1,0 +1,12 @@
+﻿body {
+	margin: auto;
+	background-color: black;
+}
+
+#featured {
+	width: 100%;
+	height: 85vh;
+
+	background: linear-gradient(90deg , rgba(0,0,0,1) 25%, rgba(255,255,255,0)), 
+	url(http://simoncpage.co.uk/blog/wp-content/uploads/2009/07/5.png);
+}
